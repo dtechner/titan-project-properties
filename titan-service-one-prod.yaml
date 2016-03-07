@@ -1,0 +1,4 @@
+refreshable:
+ string: Service ONE, Value from config server
+ integer: 212
+encrypted:
